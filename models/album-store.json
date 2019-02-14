@@ -1,0 +1,79 @@
+{
+  "albumCollection": [
+    {
+      "id" : "01",
+      "title": "WIT",
+      "size": 35,
+      "photos": [
+        {
+          "id" : "04",
+          "title" : "https://cdn.glitch.com/d703f7e9-45fa-4a5f-ab3e-302187159b77%2Fwit2.jpeg?1550158485965",
+          "description": "Picture of WIT",
+          "size": 5
+        },
+        {
+          "id" : "05",
+          "title": "<a href = \"https://cdn.glitch.com/d703f7e9-45fa-4a5f-ab3e-302187159b77%2Fimage.jpg?1550158490454\"> </a>",
+          "description": "Picture of WIT",
+          "size": 6
+        },
+        {
+          "id" : "06",
+          "title": "Piano Sonata No. 10",
+          "artist": "Beethoven",
+          "genre": "Classical",
+          "size": 4
+        }
+      ]
+    },
+    {
+      "id" : "02",
+      "title": "Beethoven Concertos",
+      "duration": 23,
+      "songs": [
+        {
+          "id" : "07",
+          "title": "Piano Concerto No. 0",
+          "artist": "Beethoven",
+          "genre": "Classical",
+          "duration": 8
+        },
+        {
+          "id" : "08",
+          "title": "Piano Concerto No. 4",
+          "artist": "Beethoven",
+          "genre": "Classical",
+          "duration": 3
+        },
+        {
+          "id" : "09",
+          "title": "Piano Concerto No. 6",
+          "artist": "Beethoven",
+          "genre": "Classical",
+          "duration": 4
+        }
+      ]
+    },
+    {
+      "id" : "03",
+      "title": "Beethoven Variations",
+      "duration": 67,
+      "songs": [
+        {
+          "id" : "10",
+          "title": "Opus 34: Six variations on a theme in F major",
+          "artist": "Beethoven",
+          "genre": "Classical",
+          "duration": 11
+        },
+        {
+          "id" : "11",
+          "title": "Opus 120: Thirty-three variations on a waltz by Diabelli in C majo",
+          "artist": "Beethoven",
+          "genre": "Classical",
+          "duration": 45
+        }
+      ]
+    }
+  ]
+}
